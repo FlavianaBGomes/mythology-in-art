@@ -1,6 +1,6 @@
 # Mythology in Art
 
-**How has Greek mythology been represented in art over time?** Um projeto de Flaviana Gomes que une pesquisa visual, APIs de museus, análise de dados e uma interface exploratória.
+**How has Greek mythology been represented in art over time?** Um projeto que une o amor pela mitologia, pesquisa visual, APIs de museus, análise de dados e uma interface exploratória.
 
 ## Estado do projeto
 
